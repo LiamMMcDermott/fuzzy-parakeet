@@ -1,5 +1,7 @@
+# NOTE: This is not even close to being finished.
 # fuzzy-parakeet
-Postcode Property Geolocation for Umrbaco using the might postcodes.io
+# 
+Postcode Property Geolocation for Umbraco using the amazing <a href="http://postcodes.io/">postcodes.io</a>
 # Info
 Idea for a new Umbraco package:
 
